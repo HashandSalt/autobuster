@@ -25,4 +25,4 @@ c::set('autobuster', true);
 
 ## Authors
 
-Bastian Allgeier <bastian@getkirby.com>, Lukas Bestle <lukas@getkirby.com>, Sonja Broda <sonja@getkirby.com> & James Steel <hello@hashandsalt.com>
+Bastian Allgeier, Lukas Bestle, Sonja Broda & James Steel
