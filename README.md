@@ -25,4 +25,4 @@ c::set('autobuster', true);
 
 ## Authors
 
-Bastian Allgeier, Lukas Bestle, Sonja Broda & James Steel
+Bastian Allgeier, Lukas Bestle, Lukas Kleinschmidt, Sonja Broda & James Steel
