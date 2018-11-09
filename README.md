@@ -1,4 +1,4 @@
-# Kirby Autobuster Plugin
+# Kirby Autobuster Plugin K3 Edition
 
 This plugin is based on the original Cachebuster by Bastian Allgeier, the modified version by Lukas Kleinschmidt with further modifications & enhancemnets by Sonja Broda & James Steel.
 
@@ -20,7 +20,7 @@ To use this plugin, place all the files in `site/plugins/autobuster`.
 Now you can activate the plugin with following line in your `config.php`.
 
 ```
-c::set('autobuster', true);
+'hashaandsalt.autobuster.enabled' => 'true'
 ```
 
 ## Authors

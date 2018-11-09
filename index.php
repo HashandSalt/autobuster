@@ -1,6 +1,13 @@
 <?php
 
-if(!c::get('autobuster')) return;
+
+Kirby::plugin('hashaandsalt/autobuster', [
+
+
+
+'options' => [
+  'enabled' => 'false'
+]
 
 load([
   'kirby\\autobuster\\css' => __DIR__ . DS . 'lib' . DS . 'css.php',
@@ -9,3 +16,5 @@ load([
 
 kirby()->set('component', 'css', 'Kirby\\Autobuster\\CSS');
 kirby()->set('component', 'js',  'Kirby\\Autobuster\\JS');
+
+]);
